@@ -62,14 +62,6 @@
                                         <li> <a href="project-details.html">Project Details</a></li>
                                     </ul> --}}
                                 </li>
-                                <li>
-                                    <a href="/blog">Blog</a>
-                                    {{-- <ul>
-                                        <li><a href="blog.html">Blog List</a></li>
-                                        <li><a href="blog-grid.html">Blog Grid</a></li>
-                                        <li><a href="single.html">Blog Details</a></li>
-                                    </ul> --}}
-                                </li>
                                 {{-- <li>
                                     <a href="/page">Page</a>
                                     <ul>

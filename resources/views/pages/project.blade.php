@@ -64,7 +64,7 @@
 
 
 
-<section class="recent-work section-padding">
+<section class="recent-work section-padding" style="background-color: #E3F2FD">
 
     <div class="container">
 

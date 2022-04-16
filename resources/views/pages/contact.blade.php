@@ -30,7 +30,7 @@
 </div>
 <!-- end of page header -->
 <!-- start contact us section -->
-<section class="contact-us-section padding-top">
+<section class="contact-us-section padding-top" style="background-color: #E3F2FD">
     <div class="container">
         <div class="row">
 
@@ -112,7 +112,7 @@
 </section>
 <!-- end of contact us section -->
 <!-- start google map section -->
-<div class="googlemap">
+<div class="googlemap" >
     <div id="gmap"></div>
 </div>
 <!-- end of google map section -->

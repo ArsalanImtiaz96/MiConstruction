@@ -62,7 +62,7 @@
 
 <!-- start expericen section -->
 
-<section class="experience-section section-padding">
+<section class="experience-section section-padding" style="background-color: #E3F2FD">
 
     <div class="container">
 
@@ -130,7 +130,7 @@
 
 <!-- end of experiene section -->
 
-<section class="quote-area section-padding">
+<section class="quote-area section-padding" style="background-color: #F2F2F2">
 
     <div class="container">
 
@@ -154,7 +154,7 @@
 
 <!-- start team section -->
 
-<section class="team-section section-padding">
+<section class="team-section section-padding" style="background-color: #E3F2FD">
 
     <div class="container">
 

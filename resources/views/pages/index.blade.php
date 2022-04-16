@@ -69,7 +69,7 @@
 </section>
 <!-- end of slider area -->
 <!-- start brand slider -->
-<div class="brand-slider" style="background-image: url({{url('asset/img/yellow-rake.png')}})">
+<div class="brand-slider" style="background-color: #F2F2F2">
     <div class="container">
         <div class="row brand-slider-active">
             <div class="single-brand col-md-2 text-center">
@@ -98,7 +98,7 @@
 </div>
 <!-- end of brand slider -->
 <!-- start experience section -->
-<section class="experience-section section-padding">
+<section class="experience-section section-padding " style="background-color: #E3F2FD">
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -185,7 +185,7 @@
 </section>
 <!-- end of counter section -->
 <!-- start services section -->
-<section class="services-section section-padding">
+<section class="services-section section-padding" style="background-color: #E3F2FD">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -365,7 +365,7 @@
 </section>
 <!-- end of why choose section -->
 <!-- start recent work section -->
-<section class="recent-work section-padding">
+<section class="recent-work section-padding" style="background-color: #E3F2FD">
     <div class="container">
         <div class="row">
             <div class="col-md-12 text-center">
@@ -521,89 +521,4 @@
     </div>
 </section>
 <!-- end of testimonial section -->
-<!-- start our blog section -->
-<section class="blog-area section-padding">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 text-center">
-                <div class="section-title">
-                    <h2>The Blog</h2>
-                    <p>Latest Updated</p>
-                </div>
-            </div>
-        </div>
-        <div class="row blog-slider-active">
-            <div class="col-md-4">
-                <div class="single-blog">
-                    <div class="blog-thumb">
-                        <a href="single.html"> <img src="{{asset('asset/img/blog-1.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="blog-title">
-                        <div class="date">
-                            <h4>30 <span>jan</span></h4>
-                        </div>
-                        <div class="blog-desc">
-                            <a href="single.html"><h3>How To Increase Safety In Construction Work</h3></a>
-                            <p>There are many variations of passages of Lor Ipsum available, but the majority have suffered alteration in some form</p>
-                        </div>
-                    </div>
-                    <a href="single.html" class="read-more">Read more</a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="single-blog">
-                    <div class="blog-thumb">
-                        <a href="single.html"> <img src="{{asset('asset/img/blog-2.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="blog-title">
-                        <div class="date">
-                            <h4>30 <span>jan</span></h4>
-                        </div>
-                        <div class="blog-desc">
-                            <a href="single.html"><h3>Different Kind Of Mordern Building</h3></a>
-                            <p>There are many variations of passages of Lor Ipsum available, but the majority have suffered alteration in some form</p>
-                        </div>
-                    </div>
-                    <a href="single.html" class="read-more">Read more</a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="single-blog">
-                    <div class="blog-thumb">
-                        <a href="single.html"> <img src="{{asset('asset/img/blog-3.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="blog-title">
-                        <div class="date">
-                            <h4>30 <span>jan</span></h4>
-                        </div>
-                        <div class="blog-desc">
-                            <a href="single.html"><h3>Our Latest Construction Machinaries</h3></a>
-                            <p>There are many variations of passages of Lor Ipsum available, but the majority have suffered alteration in some form</p>
-                        </div>
-                    </div>
-                    <a href="single.html" class="read-more">Read more</a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="single-blog">
-                    <div class="blog-thumb">
-                        <a href="single.html"> <img src="{{asset('asset/img/blog-2.jpg')}}" alt=""></a>
-                    </div>
-                    <div class="blog-title">
-                        <div class="date">
-                            <h4>30 <span>jan</span></h4>
-                        </div>
-                        <div class="blog-desc">
-                            <a href="single.html"><h3>Different Kind Of Mordern Building</h3></a>
-                            <p>There are many variations of passages of Lor Ipsum available, but the majority have suffered alteration in some form</p>
-                        </div>
-                    </div>
-                    <a href="single.html" class="read-more">Read more</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- end of blog section -->
-
 @endsection

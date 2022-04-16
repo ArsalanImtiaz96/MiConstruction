@@ -65,7 +65,7 @@ select.language {
 
 .single-topbar p span {
     margin-right: 10px;
-    color: #ffb400
+    color: #d90a2c
 }
 
 .single-topbar p {
@@ -200,7 +200,7 @@ section.experience-section.section-padding {
 }
 
 .experience-content h1 span {
-    color: #ffa100;
+    color: #d90a2c;
 }
 
 .our-mission-list {
@@ -223,7 +223,7 @@ section.experience-section.section-padding {
     right: 0;
     height: 10px;
     width: 50px;
-    background: #ffa100;
+    background: #d90a2c;
     content: "";
     top: 10px;
 }
@@ -252,7 +252,7 @@ section.experience-section.section-padding {
     font-family: fontawesome;
     left: 0;
     position: absolute;
-    color: #ffa100;
+    color: #d90a2c;
 }
 
 .our-mission-list li:last-child {
@@ -273,7 +273,7 @@ section.counter-section {
 
 .single-counter:hover .icon {
     background: #000531;
-    color: #ffa100;
+    color: #E3F2FD;
 }
 
 .icon {
@@ -345,7 +345,7 @@ section.services-section.section-padding {
 
 .single-services:hover .icon {
     background-color: #000531;
-    color: #ffa100;
+    color: #E3F2FD;
 }
 
 .single-services {
@@ -387,18 +387,18 @@ section.why-choose-section .section-title {
 }
 
 .single-why-choose .content h4 {
-    color: #ffa100;
+    color: #d90a2c;
 }
 
 .single-why-choose:hover .icon {
-    background: #ffa100;
+    background: #d90a2c;
     color: #000531;
 }
 
 .single-why-choose .icon {
     background: transparent;
-    color: #ffa100;
-    border-color: #ffa100;
+    color: #E3F2FD;
+    border-color: #d90a2c;
     font-size: 24px
 }
 
@@ -443,7 +443,7 @@ section.recent-work {
 }
 
 .single-project:hover a h4 {
-    color: #ffa100;
+    color: #E3F2FD;
 }
 
 .single-project:hover img {
@@ -553,7 +553,7 @@ section.testimonial-section:after {
 }
 
 .testimonial-title h1 span {
-    color: #ffa100;
+    color: #d90a2c;
 }
 
 .testimonial-title {
@@ -623,7 +623,7 @@ ul.slick-dots li button {
 }
 
 ul.slick-dots li.slick-active button {
-    background-color: #ffa100;
+    background-color: #d90a2c;
 }
 
 
@@ -641,7 +641,7 @@ ul.slick-dots li.slick-active button {
 }
 
 .blog-title .date span {
-    background-color: #ffa100;
+    background-color: #d90a2c;
     display: block;
     color: #fff;
 }
@@ -685,7 +685,7 @@ a.read-more {
 }
 
 a.read-more:hover {
-    background-color: #ffa100;
+    background-color: #d90a2c;
 }
 
 .blog-slider-active ul.slick-dots {
@@ -729,7 +729,7 @@ a.read-more:hover {
 }
 
 .single-input label {
-    color: #ffa100;
+    color: #d90a2c;
     font-size: 14px;
     font-weight: 400;
     font-family: 'Ubuntu', sans-serif;
@@ -768,7 +768,7 @@ a.read-more:hover {
 
 .single-contact-address .icon {
     background: transparent;
-    color: #ffa100;
+    color: #d90a2c;
     font-size: 22px;
 }
 
@@ -778,7 +778,7 @@ a.read-more:hover {
 }
 
 .get-in-touch {
-    background-image: url(../img/contact-shap.png);
+    background-color: #d90a2c;
     display: inline-block;
     padding-right: 50px;
     padding-left: 50px;
@@ -794,7 +794,7 @@ a.read-more:hover {
 .submitbtn button {
     width: 160px;
     height: 40px;
-    background: #ffa100;
+    background: #d90a2c;
     text-transform: uppercase;
     font-weight: 700;
     cursor: pointer;
@@ -866,7 +866,7 @@ h2.widget-title {
     width: 250px;
     height: 50px;
     padding-left: 10px;
-    border: 1px solid #ffa100;
+    border: 1px solid #d90a2c;
     background-color: transparent;
     color: #fff;
     float: left;
@@ -885,7 +885,7 @@ h2.widget-title {
 }
 
 .newsletter button {
-    background: #ffa100;
+    background: #d90a2c;
     width: 50px;
     height: 50px;
     float: left;
@@ -902,7 +902,7 @@ h2.widget-title {
 }
 
 .widget ul li a:hover {
-    color: #ffa100;
+    color: #E3F2FD;
 }
 
 .widget ul li .addres-icon {
@@ -952,7 +952,7 @@ h2.widget-title {
 .copryright p a {
     margin-bottom: 0;
     font-weight: 700;
-    color: #ffa100
+    color: #d90a2c
 }
 
 .footer-social a {
@@ -963,7 +963,7 @@ h2.widget-title {
 }
 
 .footer-social a:hover {
-    color: #ffa100
+    color: #E3F2FD
 }
 
 .copyright-section {
@@ -1019,8 +1019,8 @@ section.page-header-section:before {
     color: #fff;
     font-size: 16px;
     line-height: 18px;
-    background: #ffb400;
-    border-color: #ffb400;
+    background: #d90a2c;
+    border-color: #d90a2c;
     height: 50px;
     width: 200px;
     text-align: center;
@@ -1041,7 +1041,7 @@ section.page-header-section:before {
 }
 
 .paget-title span {
-    color: #ffb400;
+    color: #d90a2c;
 }
 
 .paget-title h2 {
@@ -1068,7 +1068,6 @@ ol.breadcrumb li {
 /*start quote area*/
 
 .quote-area {
-    background-image: url(../img/yellow-rake.png);
     padding-bottom: 50px;
     padding-top: 50px;
 }
@@ -1116,7 +1115,7 @@ ol.breadcrumb li {
 }
 
 .team-social-icon a:hover {
-    background: #ffb400;
+    background: #d90a2c;
     color: #000531
 }
 
@@ -1232,7 +1231,7 @@ ol.breadcrumb li {
 
 .project-nav ul li.active,
 .project-nav ul li:hover {
-    color: #ffb400;
+    color: #E3F2FD;
 }
 
 
@@ -1403,7 +1402,7 @@ ul.pagination li {
 }
 
 .blog-list-date .date span {
-    background-color: #ffa100;
+    background-color: #d90a2c;
     display: block;
     color: #fff;
 }
@@ -1423,7 +1422,7 @@ ul.pagination li {
 
 .single-blog.list-blog-item .news-meta a span {
     margin-right: 10px;
-    color: #ffa100;
+    color: #d90a2c;
 }
 
 
@@ -1449,7 +1448,7 @@ ul.pagination li {
     top: 0;
     height: 50px;
     width: 50px;
-    background-color: #ffb400;
+    background-color: #d90a2c;
     color: #fff;
 }
 
@@ -1495,7 +1494,7 @@ ul.pagination li {
     color: #fff;
     display: inline-block;
     padding: 10px 19px;
-    background: #ffb400;
+    background: #d90a2c;
     font-weight: 500;
     font-size: 13px;
     margin-bottom: 4px;
@@ -1529,7 +1528,7 @@ section.blog-area.blog-grid-page.section-padding .single-blog {
 
 .blog-content blockquote {
     padding-left: 20px;
-    border-left: 5px solid #ffa100;
+    border-left: 5px solid #d90a2c;
     font-style: italic;
     font-size: 20px;
     padding-top: 20px;
@@ -1570,7 +1569,7 @@ section.blog-area.blog-grid-page.section-padding .single-blog {
 }
 
 .tag.posttag a:hover {
-    color: #ffb400
+    color: #E3F2FD
 }
 
 .share a {
@@ -1579,7 +1578,7 @@ section.blog-area.blog-grid-page.section-padding .single-blog {
     display: inline-block;
     color: #fff;
     text-align: center;
-    background: #ffb400;
+    background: #d90a2c;
     line-height: 40px;
     border-radius: 6px;
     transition: .4s;
@@ -1620,7 +1619,7 @@ section.blog-area.blog-grid-page.section-padding .single-blog {
 }
 
 .author-details .about-author a {
-    color: #ffb400;
+    color: #d90a2c;
     margin-right: 15px;
 }
 
@@ -1696,7 +1695,7 @@ section.blog-area.blog-grid-page.section-padding .single-blog {
     width: 160px;
     height: 50px;
     text-transform: uppercase;
-    background-color: #ffb400;
+    background-color: #d90a2c;
     color: #fff;
     font-weight: 600;
     border-radius: 20px;
@@ -1889,7 +1888,7 @@ section.services-image-page.section-padding {
 }
 
 .services-widget-category ul li a:hover {
-    background: #ffa100;
+    background: #d90a2c;
     color: #fff
 }
 

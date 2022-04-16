@@ -62,7 +62,7 @@
 
 <!-- start services section -->
 
-<section class="services-area services-page section-padding">
+<section class="services-area services-page section-padding" style="background-color: #E3F2FD">
 
     <div class="container">
 

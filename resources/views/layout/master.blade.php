@@ -8,7 +8,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
-    <title>Construc | Ultimate Cunstruction Business Template</title>
+    <title>MI Construction</title>
     <link rel="icon" href="{{asset('asset/img/favicon.jpg')}}" type="image/gif">
     <link rel="stylesheet" type="text/css" href="{{asset('asset/css/bootstrap.min.css')}}">
     <link rel="stylesheet" type="text/css" href="{{asset('asset/css/font-awesome.min.css')}}">
